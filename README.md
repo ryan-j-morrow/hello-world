@@ -13,9 +13,9 @@ My commitment to excellence, both in and out of the classroom, fuels my ambition
 ## Headshot
 Use these images as Ryan's official headshots.
 1. Front-Facing Headshot
-   1. ![Front-Facing Headshot](hello-world/Front-Facing Headshot.jpg)
+   ![Front-Facing Headshot](hello-world/Front-Facing Headshot.jpg)
 2. Side Profile Headshot / Public Speaking Action Shot
-   1. ![Side Profile Headshot and Public Speaking Action Shot](hello-world/Speaking and Side Profile Headshot.jpg)
+   ![Side Profile Headshot and Public Speaking Action Shot](hello-world/Speaking and Side Profile Headshot.jpg)
 
 # Links
 - [Linkedin](HTTP://www.ryanjefferymorrow.com)
